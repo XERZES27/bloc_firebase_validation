@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "810855135900",
+    "firebase_url": "https://flutterfirebase-b4a0a.firebaseio.com",
+    "project_id": "flutterfirebase-b4a0a",
+    "storage_bucket": "flutterfirebase-b4a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810855135900:android:4f647b15274c6678f50b59",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810855135900-95eb2nmsvagsm65m0bre8n3ft68jc81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNDc3FXbYt_coK3BERxJ4xrAk4rtHjXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810855135900-95eb2nmsvagsm65m0bre8n3ft68jc81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810855135900:android:67f81bf2bc0fcfc6f50b59",
+        "android_client_info": {
+          "package_name": "excs.com.bloc_firebase_validation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810855135900-ik2r7c0da7dmvo02ma3ajej6vt2gnbh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "excs.com.bloc_firebase_validation",
+            "certificate_hash": "5514b2622d3396468f240dd82c566dd516c93b47"
+          }
+        },
+        {
+          "client_id": "810855135900-95eb2nmsvagsm65m0bre8n3ft68jc81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNDc3FXbYt_coK3BERxJ4xrAk4rtHjXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810855135900-95eb2nmsvagsm65m0bre8n3ft68jc81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810855135900:android:43d9169ec98019c1f50b59",
+        "android_client_info": {
+          "package_name": "excs.com.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810855135900-9eq84ougqn80telcp5n37km6m366ikjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "excs.com.brew_crew",
+            "certificate_hash": "1d81f31e52c3fd8d7950ef0815f66812cbb9baef"
+          }
+        },
+        {
+          "client_id": "810855135900-95eb2nmsvagsm65m0bre8n3ft68jc81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNDc3FXbYt_coK3BERxJ4xrAk4rtHjXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810855135900-95eb2nmsvagsm65m0bre8n3ft68jc81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
